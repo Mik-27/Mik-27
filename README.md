@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - ⚽ Like playing Fifa.
 
 ### Do check out my repositories and leave a ⭐ if you like it.
-### Also, check my [website](mik-27.github.io) and you can connect with me on [LinkedIn](https://www.linkedin.com/in/mihir-thakur-116aa2208/)
+### Also, check my [website](https://mik-27.github.io/) and you can connect with me on [LinkedIn](https://www.linkedin.com/in/mihir-thakur-116aa2208/)
 
 ## ✌🏼
